@@ -1,29 +1,21 @@
 <script setup lang="ts">
 const skills = [
-  {
-    category: 'Programming Languages',
-    items: ['Python', 'SQL', 'Scala', 'Java']
-  },
-  {
-    category: 'Big Data Technologies',
-    items: ['Apache Spark', 'Hadoop', 'Apache Kafka', 'Apache Airflow']
-  },
-  {
-    category: 'Cloud Platforms',
-    items: ['AWS', 'Google Cloud', 'Azure', 'Snowflake']
-  },
-  {
-    category: 'Data Warehousing',
-    items: ['Redshift', 'BigQuery', 'Snowflake', 'PostgreSQL']
-  },
-  {
-    category: 'ETL Tools',
-    items: ['dbt', 'Apache NiFi', 'Informatica', 'Talend']
-  },
-  {
-    category: 'Version Control & CI/CD',
-    items: ['Git', 'GitHub Actions', 'Jenkins', 'Docker']
-  }
+ {
+  category: 'Programming & Query Languages',
+  items: ['SQL', 'PostgreSQL', 'Python']
+ },
+ {
+  category: 'Big Data & Processing',
+  items: ['Apache Spark']
+ },
+ {
+  category: 'Cloud Platform',
+  items: ['AWS']
+ },
+ {
+  category: 'Data Tools',
+  items: ['Snowflake', 'Pandas', 'Excel']
+ }
 ]
 </script>
 
