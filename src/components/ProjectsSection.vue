@@ -1,23 +1,11 @@
 <script setup lang="ts">
 const projects = [
-  {
-    title: 'Real-time Analytics Pipeline',
-    description: 'Designed and implemented a real-time data processing pipeline using Apache Kafka and Apache Spark Streaming, processing over 1M events per minute.',
-    technologies: ['Kafka', 'Spark', 'AWS', 'Python'],
-    metrics: 'Reduced data processing latency by 60%'
-  },
-  {
-    title: 'Data Warehouse Migration',
-    description: 'Led the migration of an on-premise data warehouse to Snowflake, implementing modern data modeling practices using dbt.',
-    technologies: ['Snowflake', 'dbt', 'Python', 'Airflow'],
-    metrics: 'Improved query performance by 80%'
-  },
-  {
-    title: 'ML Feature Pipeline',
-    description: 'Built an automated feature engineering pipeline for machine learning models, handling both batch and streaming data sources.',
-    technologies: ['Python', 'Spark', 'Feature Store', 'MLflow'],
-    metrics: 'Reduced feature computation time by 70%'
-  }
+ {
+  title: 'Olist E-commerce SQL Analysis',
+  description: 'Performed in-depth analysis on Brazilian e-commerce dataset using advanced SQL queries to derive business insights.',
+  tech: ['SQL', 'PostgreSQL'],
+  link: 'https://github.com/gajananjadhav-ai'
+ }
 ]
 </script>
 
