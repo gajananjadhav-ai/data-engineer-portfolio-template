@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const technologies = const technologies = [
+const technologies = [
  'SQL',
  'PostgreSQL',
  'Python',
@@ -8,7 +8,6 @@ const technologies = const technologies = [
  'Pandas',
  'Excel'
 ]
-
 </script>
 
 <template>
