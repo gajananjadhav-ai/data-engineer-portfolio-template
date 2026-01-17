@@ -9,13 +9,12 @@
             and creating efficient data pipelines. With extensive experience in both batch
             and real-time processing, I help organizations transform their data into
             valuable insights.
-          </p>
-          <p class="text-lg text-gray-600 dark:text-gray-300">
-            My expertise includes designing scalable ETL processes, implementing data
-            warehousing solutions, and optimizing data workflows for maximum efficiency.
-            I'm particularly interested in modern data stack technologies and best
-            practices in data engineering.
-          </p>
+          <p>
+I am currently working as an MIS Executive with strong experience in data handling, reporting, and analysis.
+I am actively preparing for a Data Engineering role and building projects using SQL, PostgreSQL, Python,
+Apache Spark, Snowflake, and Pandas. My goal is to design scalable data pipelines and solve real-world
+data problems.
+</p>
         </div>
         <div class="grid grid-cols-2 gap-6">
           <div class="card">
